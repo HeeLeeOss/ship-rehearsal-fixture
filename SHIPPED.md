@@ -18,3 +18,20 @@ This file is written by the Hee-Lee Oss host each time a milestone of this proje
 - Licence: CC0-1.0; notices: `NOTICE.md` (sha256 `7ff543ebbf89d7a40a3c1a648f863773c38afde598e71859b70a022560589224`)
 - Rehearsal: a deposit to Zenodo's sandbox, whose DOI does not resolve; no task was delivered
 - This work was AI-assisted.
+
+## M2: `Rehearsal two` (rehearsal)
+
+- Shipped commit: `d0688fd253c2c39423681d68ac88ee5e0a57c096`
+- Recipe: zenodo-deposit
+- Published at: `https://sandbox.zenodo.org/records/646087`
+- Identifier: `10.5072/zenodo.646087`, seen to resolve when its bytes were fetched back from `https://sandbox.zenodo.org/api/records/646087/files/ship-rehearsal-fixture-m2.tar/content` at 2026-11-20T02:44:30.654Z
+- Plan digest: `e0e5b9aa92aa340a37baef432bd6a9677b7d31e8eae6b907e0928c16559473ee`
+- Files: 3; archive sha256 `420261864e61edacd1fee76a481408409523ad64877500dc0456f79d484379e8`
+- Re-verification: none (bytes match), `evaluations/M2.shipped.json` (sha256 `bd51effa7ac6fef292e52f54d7d0995152e15322a171b2ed4950b9ddd5f9f229`)
+- Milestone record: covered, `milestones/M2.json` (sha256 `2284dc805f28202e9e8d4a4a45a8e05963d955265cd8e8e4c3b8c75026cf1841`)
+- Task `ship-rehearsal-fixture-002`: evaluation at the commit none; receipt run `17121495b639a344` (sha256 `5dc73374e1337738f2e71e2262d748252e43010f8ed2f692cb723c947e6ed174`)
+- Changed since the coverage read, accepted by a person: none
+- Approved by `jdev1977` at 2026-11-20T02:43:17.522Z, typing the plan digest
+- Licence: CC0-1.0; notices: `NOTICE.md` (sha256 `3da99547c726b80709037d7e36e3561affc517d6985adf1d8ee53292de23655c`)
+- Rehearsal: a deposit to Zenodo's sandbox, whose DOI does not resolve; no task was delivered
+- This work was AI-assisted.
