@@ -1,0 +1,37 @@
+{
+  "id": "ship-rehearsal-fixture-002",
+  "title": "Write data/m2.txt for rehearsal milestone M2",
+  "project": "ship-rehearsal-fixture",
+  "type": "data",
+  "lane": "donated",
+  "priority": "low",
+  "domain": [
+    "software",
+    "open-source"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "A throwaway project used once to rehearse the ship stage against Zenodo's sandbox. It has no outside beneficiary and no public deliverable.",
+  "objective": "Add the one-line text file data/m2.txt, so that milestone M2 has something to be read, covered and shipped to the sandbox.",
+  "acceptanceCriteria": [
+    "AC-02: data/m2.txt holds the line \"rehearsal two\""
+  ],
+  "output": "data/m2.txt",
+  "verifiedNeed": false,
+  "provenance": "generated",
+  "inputs": "none",
+  "outputLicense": "CC0-1.0",
+  "lifecycle": "ai-full",
+  "reviewPolicy": {
+    "vendors": 2,
+    "evaluators": [],
+    "humanCheckpoints": [
+      "spec",
+      "plan",
+      "ship"
+    ]
+  }
+}
