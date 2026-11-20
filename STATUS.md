@@ -6,10 +6,10 @@ Generated from this repository's task files and the deed receipts on the host th
 
 | State | Tasks |
 | --- | --- |
-| open | 1 |
+| open | 0 |
 | in progress | 0 |
 | review | 0 |
-| done | 1 |
+| done | 2 |
 | delivered | 0 |
 
 This project is done when: A Zenodo sandbox rehearsal deposit per milestone; nothing is delivered to anyone.
@@ -29,7 +29,7 @@ none
 
 ## Last sync
 
-2026-11-20T07:00:16Z (UTC), by hee-lee-oss complete
+2026-11-20T07:00:28Z (UTC), by hee-lee-oss complete
 
 ## Links
 
