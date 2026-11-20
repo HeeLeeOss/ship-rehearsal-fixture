@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "project": "ship-rehearsal-fixture",
+  "milestone": "M1",
+  "state": "covered",
+  "reads": [
+    {
+      "read": 1,
+      "runId": "21a78ea46eeb1261",
+      "at": "2026-11-20T02:08:34.082Z",
+      "sha256": "dcbbda8de34c7d99e4c9ff5ef1f1444563e77c22040ce9ad994d02122163693f",
+      "prs": [
+        {
+          "number": 1,
+          "bodyOnly": false,
+          "cut": false
+        }
+      ],
+      "covered": [
+        "AC-01"
+      ],
+      "uncovered": [],
+      "unverified": []
+    }
+  ]
+}
